@@ -15,7 +15,7 @@ The details of the code are attached as comments.
 `gcc Race_Simulator.c -o racer.exe`
 
 5. Finally, execute the application file. In my case I typed the code below into my VS Code's terminal
-`-\racer.exe`
+`.\racer.exe`
 
 ## Result
 In the end, you should get something similar to the image shown below but not in the exact format since the result is influenced by the random numbers used to generate the total lap time for each race car.
